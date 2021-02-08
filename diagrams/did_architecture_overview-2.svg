@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-3.8346453 55.692915 920.4252 446.0384" width="920.4252" height="446.0384">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-3.8346453 55.692915 920.4252 446.0384" width="920.4252" height="446.0384">
   <defs>
     <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
       <font-face-src>
@@ -48,10 +48,10 @@
       </font-face-src>
     </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.18.2\n2021-02-05 00:16:57 +0000</metadata>
-  <g id="Canvas_1" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1">
+  <metadata> Produced by OmniGraffle 7.18.2\n2021-02-08 04:45:55 +0000</metadata>
+  <g id="Canvas_1" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
     <title>Canvas 1</title>
-    <rect fill="white" x="0" y="55.692915" width="916.5906" height="446.0384"/>
+    <rect fill="white" x="10" y="69" width="893" height="419"/>
     <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Graphic_7">
@@ -391,13 +391,13 @@
       </g>
       <g id="Graphic_136">
         <text transform="translate(189.25197 452.87403)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="12" font-style="italic" font-weight="400" fill="black" x="16.224" y="11">DID document-local</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-style="italic" font-weight="400" fill="black" x="3.336" y="11">DID document-relative</tspan>
           <tspan font-family="Helvetica Neue" font-size="12" font-style="italic" font-weight="400" fill="black" x="5684342e-19" y="26.336"> fragment</tspan>
           <tspan font-family="Helvetica Neue" font-size="12" font-style="italic" font-weight="700" fill="black" y="26.336"> dereference</tspan>
         </text>
       </g>
       <g id="Line_137">
-        <path d="M 506.40616 301.47245 C 505.88654 310.62607 500.70794 380.48594 462.04726 422.3622 C 430.8611 456.14225 388.92676 459.75637 370.09563 459.47835" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+        <path d="M 506.40616 301.47245 C 505.88654 310.62607 500.70794 380.48594 462.04726 422.3622 C 430.8611 456.14225 388.92676 459.75637 370.09563 459.47834" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
       </g>
       <g id="Graphic_138">
         <text transform="translate(393.71205 456.8997)" fill="black">
