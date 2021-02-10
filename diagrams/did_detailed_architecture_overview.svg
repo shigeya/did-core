@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <<<<<<< HEAD
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-23.677166 52.85827 792.8662 572.0422" width="792.8662" height="572.0422">
 =======
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-23.677166 52.85827 792.8662 563.5383" width="792.8662" height="563.5383">
 >>>>>>> ca7cc8b (updating diagrams)
+=======
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-23.677166 52.85827 792.8662 572.0422" width="792.8662" height="572.0422">
+>>>>>>> d23387f (updating diagrams)
   <defs>
     <font-face font-family="Helvetica Neue" font-size="18" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
       <font-face-src>
@@ -58,6 +62,7 @@
     </font-face>
   </defs>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <metadata> Produced by OmniGraffle 7.18.2\n2021-02-10 04:14:39 +0000</metadata>
   <g id="Canvas_1" stroke-opacity="1" stroke="none" fill-opacity="1" fill="none" stroke-dasharray="none">
     <title>Canvas 1</title>
@@ -68,6 +73,12 @@
     <title>Canvas 1</title>
     <rect fill="white" x="-10" y="67" width="766" height="536"/>
 >>>>>>> ca7cc8b (updating diagrams)
+=======
+  <metadata> Produced by OmniGraffle 7.18.2\n2021-02-10 04:14:39 +0000</metadata>
+  <g id="Canvas_1" stroke-opacity="1" stroke="none" fill-opacity="1" fill="none" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-10" y="67" width="766" height="544"/>
+>>>>>>> d23387f (updating diagrams)
     <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Graphic_7">
@@ -84,10 +95,14 @@
       </g>
       <g id="Graphic_18">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <text transform="translate(308.3071 158.07087)" fill="black">
 =======
         <text transform="translate(313.9764 152.40158)" fill="black">
 >>>>>>> ca7cc8b (updating diagrams)
+=======
+        <text transform="translate(308.3071 158.07087)" fill="black">
+>>>>>>> d23387f (updating diagrams)
           <tspan font-family="Helvetica Neue" font-size="14" font-style="italic" font-weight="700" fill="black" x="8739676e-19" y="14">resolves</tspan>
           <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" y="14"> to</tspan>
         </text>
@@ -184,10 +199,14 @@
       </g>
       <g id="Graphic_64">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <text transform="translate(109.88189 367.83466)" fill="black">
 =======
         <text transform="translate(98.54331 359.3307)" fill="black">
 >>>>>>> ca7cc8b (updating diagrams)
+=======
+        <text transform="translate(109.88189 367.83466)" fill="black">
+>>>>>>> d23387f (updating diagrams)
           <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="20889956e-19" y="13">fragment refers, and</tspan>
           <tspan font-family="Helvetica Neue" font-size="14" font-style="italic" font-weight="700" fill="black" x="18.662" y="30.392">dereferences,</tspan>
           <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" y="30.392"> to </tspan>
@@ -296,10 +315,14 @@
       </g>
       <g id="Graphic_16">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <text transform="translate(78.92524 237.30717)" fill="black">
 =======
         <text transform="translate(62.34621 252.78398)" fill="black">
 >>>>>>> ca7cc8b (updating diagrams)
+=======
+        <text transform="translate(78.92524 237.30717)" fill="black">
+>>>>>>> d23387f (updating diagrams)
           <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="0" y="13">contains</tspan>
         </text>
       </g>
@@ -399,10 +422,14 @@
       </g>
       <g id="Graphic_136">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <text transform="translate(194.92127 571.92915)" fill="black">
 =======
         <text transform="translate(191.92514 563.4252)" fill="black">
 >>>>>>> ca7cc8b (updating diagrams)
+=======
+        <text transform="translate(194.92127 571.92915)" fill="black">
+>>>>>>> d23387f (updating diagrams)
           <tspan font-family="Helvetica Neue" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="13">DID document-relative</tspan>
           <tspan font-family="Helvetica Neue" font-size="14" font-style="italic" font-weight="400" fill="black" x="0" y="30.392">fragment</tspan>
           <tspan font-family="Helvetica Neue" font-size="14" font-style="italic" font-weight="700" fill="black" y="30.392"> dereference</tspan>
